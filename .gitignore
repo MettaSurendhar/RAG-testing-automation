@@ -18,6 +18,7 @@ rag_test_results.xlsx
 
 # Data files (documents)
 data/
+sample_data/
 data/*.pdf
 data/*.docx
 data/*.doc
